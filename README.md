@@ -1,3 +1,10 @@
-- [**<a href="https://leetcode.com/Rahul_oks/" style="color:#ffc581">LeetCode</a>**](https://leetcode.com/Rahul_oks/) 
-<br>
-My LeetCode Problem Solution
+# Array
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/Rahulrockss/LeetCode/tree/master/0283-move-zeroes) |
+
+
+# Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/Rahulrockss/LeetCode/tree/master/0283-move-zeroes) |
