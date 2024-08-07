@@ -27,10 +27,12 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rahulrockss/LeetCode/tree/master/0001-two-sum) |
+| [2338-minimum-consecutive-cards-to-pick-up](https://github.com/Rahulrockss/LeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rahulrockss/LeetCode/tree/master/0001-two-sum) |
+| [2338-minimum-consecutive-cards-to-pick-up](https://github.com/Rahulrockss/LeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 ## Math
 |  |
 | ------- |
@@ -47,4 +49,8 @@
 |  |
 | ------- |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Rahulrockss/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+## Sliding Window
+|  |
+| ------- |
+| [2338-minimum-consecutive-cards-to-pick-up](https://github.com/Rahulrockss/LeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 <!---LeetCode Topics End-->
