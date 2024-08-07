@@ -35,4 +35,16 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Rahulrockss/LeetCode/tree/master/0007-reverse-integer) |
+## String
+|  |
+| ------- |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/Rahulrockss/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+## Greedy
+|  |
+| ------- |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/Rahulrockss/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+## Enumeration
+|  |
+| ------- |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/Rahulrockss/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 <!---LeetCode Topics End-->
