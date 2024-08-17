@@ -37,6 +37,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Rahulrockss/LeetCode/tree/master/0007-reverse-integer) |
+| [2491-smallest-even-multiple](https://github.com/Rahulrockss/LeetCode/tree/master/2491-smallest-even-multiple) |
 ## String
 |  |
 | ------- |
@@ -53,4 +54,8 @@
 |  |
 | ------- |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/Rahulrockss/LeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
+## Number Theory
+|  |
+| ------- |
+| [2491-smallest-even-multiple](https://github.com/Rahulrockss/LeetCode/tree/master/2491-smallest-even-multiple) |
 <!---LeetCode Topics End-->
