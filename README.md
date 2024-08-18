@@ -37,6 +37,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Rahulrockss/LeetCode/tree/master/0007-reverse-integer) |
+| [0258-add-digits](https://github.com/Rahulrockss/LeetCode/tree/master/0258-add-digits) |
 | [2491-smallest-even-multiple](https://github.com/Rahulrockss/LeetCode/tree/master/2491-smallest-even-multiple) |
 ## String
 |  |
@@ -57,5 +58,10 @@
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Rahulrockss/LeetCode/tree/master/0258-add-digits) |
 | [2491-smallest-even-multiple](https://github.com/Rahulrockss/LeetCode/tree/master/2491-smallest-even-multiple) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Rahulrockss/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
