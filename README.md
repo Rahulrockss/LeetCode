@@ -37,12 +37,14 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Rahulrockss/LeetCode/tree/master/0007-reverse-integer) |
+| [0043-multiply-strings](https://github.com/Rahulrockss/LeetCode/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/Rahulrockss/LeetCode/tree/master/0258-add-digits) |
 | [2491-smallest-even-multiple](https://github.com/Rahulrockss/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/Rahulrockss/LeetCode/tree/master/2507-number-of-common-factors) |
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Rahulrockss/LeetCode/tree/master/0043-multiply-strings) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Rahulrockss/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 ## Greedy
 |  |
@@ -66,5 +68,6 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Rahulrockss/LeetCode/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/Rahulrockss/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
