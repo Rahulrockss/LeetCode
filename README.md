@@ -39,6 +39,7 @@
 | [0007-reverse-integer](https://github.com/Rahulrockss/LeetCode/tree/master/0007-reverse-integer) |
 | [0258-add-digits](https://github.com/Rahulrockss/LeetCode/tree/master/0258-add-digits) |
 | [2491-smallest-even-multiple](https://github.com/Rahulrockss/LeetCode/tree/master/2491-smallest-even-multiple) |
+| [2507-number-of-common-factors](https://github.com/Rahulrockss/LeetCode/tree/master/2507-number-of-common-factors) |
 ## String
 |  |
 | ------- |
@@ -51,6 +52,7 @@
 |  |
 | ------- |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Rahulrockss/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+| [2507-number-of-common-factors](https://github.com/Rahulrockss/LeetCode/tree/master/2507-number-of-common-factors) |
 ## Sliding Window
 |  |
 | ------- |
@@ -60,6 +62,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/Rahulrockss/LeetCode/tree/master/0258-add-digits) |
 | [2491-smallest-even-multiple](https://github.com/Rahulrockss/LeetCode/tree/master/2491-smallest-even-multiple) |
+| [2507-number-of-common-factors](https://github.com/Rahulrockss/LeetCode/tree/master/2507-number-of-common-factors) |
 ## Simulation
 |  |
 | ------- |
