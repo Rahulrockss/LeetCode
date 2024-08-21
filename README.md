@@ -27,6 +27,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rahulrockss/LeetCode/tree/master/0001-two-sum) |
+| [0204-count-primes](https://github.com/Rahulrockss/LeetCode/tree/master/0204-count-primes) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/Rahulrockss/LeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 ## Hash Table
 |  |
@@ -38,6 +39,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Rahulrockss/LeetCode/tree/master/0007-reverse-integer) |
 | [0043-multiply-strings](https://github.com/Rahulrockss/LeetCode/tree/master/0043-multiply-strings) |
+| [0204-count-primes](https://github.com/Rahulrockss/LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Rahulrockss/LeetCode/tree/master/0258-add-digits) |
 | [2491-smallest-even-multiple](https://github.com/Rahulrockss/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/Rahulrockss/LeetCode/tree/master/2507-number-of-common-factors) |
@@ -53,6 +55,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Rahulrockss/LeetCode/tree/master/0204-count-primes) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Rahulrockss/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2507-number-of-common-factors](https://github.com/Rahulrockss/LeetCode/tree/master/2507-number-of-common-factors) |
 ## Sliding Window
@@ -62,6 +65,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Rahulrockss/LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Rahulrockss/LeetCode/tree/master/0258-add-digits) |
 | [2491-smallest-even-multiple](https://github.com/Rahulrockss/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/Rahulrockss/LeetCode/tree/master/2507-number-of-common-factors) |
