@@ -27,6 +27,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rahulrockss/LeetCode/tree/master/0001-two-sum) |
+| [0136-single-number](https://github.com/Rahulrockss/LeetCode/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/Rahulrockss/LeetCode/tree/master/0204-count-primes) |
 | [1603-running-sum-of-1d-array](https://github.com/Rahulrockss/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/Rahulrockss/LeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
@@ -79,4 +80,8 @@
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/Rahulrockss/LeetCode/tree/master/1603-running-sum-of-1d-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Rahulrockss/LeetCode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
