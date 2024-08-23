@@ -28,6 +28,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Rahulrockss/LeetCode/tree/master/0001-two-sum) |
 | [0204-count-primes](https://github.com/Rahulrockss/LeetCode/tree/master/0204-count-primes) |
+| [1603-running-sum-of-1d-array](https://github.com/Rahulrockss/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/Rahulrockss/LeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 ## Hash Table
 |  |
@@ -74,4 +75,8 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/Rahulrockss/LeetCode/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/Rahulrockss/LeetCode/tree/master/0258-add-digits) |
+## Prefix Sum
+|  |
+| ------- |
+| [1603-running-sum-of-1d-array](https://github.com/Rahulrockss/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
