@@ -27,6 +27,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rahulrockss/LeetCode/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Rahulrockss/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/Rahulrockss/LeetCode/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/Rahulrockss/LeetCode/tree/master/0204-count-primes) |
 | [1603-running-sum-of-1d-array](https://github.com/Rahulrockss/LeetCode/tree/master/1603-running-sum-of-1d-array) |
@@ -96,4 +97,8 @@
 |  |
 | ------- |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Rahulrockss/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Rahulrockss/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
