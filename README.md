@@ -30,6 +30,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rahulrockss/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/Rahulrockss/LeetCode/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/Rahulrockss/LeetCode/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/Rahulrockss/LeetCode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Rahulrockss/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [1603-running-sum-of-1d-array](https://github.com/Rahulrockss/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/Rahulrockss/LeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
@@ -37,6 +38,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rahulrockss/LeetCode/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/Rahulrockss/LeetCode/tree/master/0268-missing-number) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/Rahulrockss/LeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 ## Math
 |  |
@@ -45,6 +47,7 @@
 | [0043-multiply-strings](https://github.com/Rahulrockss/LeetCode/tree/master/0043-multiply-strings) |
 | [0204-count-primes](https://github.com/Rahulrockss/LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Rahulrockss/LeetCode/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/Rahulrockss/LeetCode/tree/master/0268-missing-number) |
 | [2491-smallest-even-multiple](https://github.com/Rahulrockss/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/Rahulrockss/LeetCode/tree/master/2507-number-of-common-factors) |
 ## String
@@ -86,6 +89,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Rahulrockss/LeetCode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Rahulrockss/LeetCode/tree/master/0268-missing-number) |
 ## Stack
 |  |
 | ------- |
@@ -102,4 +106,12 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rahulrockss/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Rahulrockss/LeetCode/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Rahulrockss/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
