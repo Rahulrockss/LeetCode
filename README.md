@@ -30,6 +30,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rahulrockss/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/Rahulrockss/LeetCode/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/Rahulrockss/LeetCode/tree/master/0204-count-primes) |
+| [0485-max-consecutive-ones](https://github.com/Rahulrockss/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [1603-running-sum-of-1d-array](https://github.com/Rahulrockss/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/Rahulrockss/LeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 ## Hash Table
